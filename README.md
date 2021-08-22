@@ -4,27 +4,34 @@
 2 level Multilevel model on synthetic data, along with testing the models’ assumption and  ANOVA test on the models.
 ---
 
-Included: 
+Part of this project is available in this repository where we worked with synthetic data. Due to legal binding rest of it are excluded. 
+
+---
+
+### Included: 
 
 1. Code to fit two level MLM on the synthetic data
 2. Synthetic data
+3. Part of the report
 
 ---
-Team Members:
-
-Adel Memariani
-
-Abdullah Al Zubaer
+###  Team Members:
 
 
-Karthik Kadajji
+* Adel Memariani
 
-Report
+* Abdullah Al Zubaer
+
+* Karthik Kadajji
+
 ---
 
-Note: Part of the report is not uploaded due to legal issues. 
+### Report
 
-Contribution regarding the part of the report uplaoded w.r.t "Two level MLM for Synthetic data"
+
+Note: Part of the report is not uploaded due to legal binding. 
+
+Contribution regarding part of the report uplaoded that is in this repository w.r.t "Two level MLM for Synthetic data"
 | Task      | Adel Memariani | Abdullah Al Zubaer      | Karthik Kadajji |
 | ----------- | ----------- | ----------- | ----------- |
 | Implementation      | No       | Yes      | Yes       |
@@ -33,12 +40,16 @@ Contribution regarding the part of the report uplaoded w.r.t "Two level MLM for 
 
 ** Interpretation includes, research, readings, meetings and discussion among all members.
 
+Yes -> Involved
+
+No -> Not involved
+
 ---
 
-## TODO
-* [ ] Provide documentation
+###  TODO
+* [ ] Provide documentation in README.md
 * [ ] Description of the data
-* [ ] Part of the report upload
+* [X] Part of the report upload
 * [ ] Think later...
 ---
 
