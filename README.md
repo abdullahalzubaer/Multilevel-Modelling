@@ -31,7 +31,7 @@ Part of this project is available in this repository where we worked with synthe
 
 Note: Part of the report is not uploaded due to legal binding. 
 
-Contribution regarding part of the report uplaoded that is in this repository w.r.t "Two level MLM for Synthetic data"
+Contribution regarding part of the report uploaded that is in this repository w.r.t "Two level MLM for Synthetic data"
 | Task      | Adel Memariani | Abdullah Al Zubaer      | Karthik Kadajji |
 | ----------- | ----------- | ----------- | ----------- |
 | Implementation      | No       | Yes      | Yes       |
